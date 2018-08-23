@@ -23,9 +23,13 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> 
+
 </p>
 
-![screenshot](https://thumbs.gfycat.com/ComplicatedWeirdAmericanbulldog-size_restricted.gif)
+<p align="center">
+  <img src="https://thumbs.gfycat.com/ComplicatedWeirdAmericanbulldog-size_restricted.gif">
+  </p>
+
 
 ## Key Features
 
