@@ -22,9 +22,7 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> 
-
+  <a href="#download">Download</a> 
 </p>
 
 ![screenshot](https://thumbs.gfycat.com/ComplicatedWeirdAmericanbulldog-size_restricted.gif)
@@ -63,9 +61,8 @@ You can [download](https://github.com/brycelang/bamazon/archive/master.zip) late
 
 This software uses code from several open source packages.
 
-- [NodeJS](https://google.com)
-- [MYSQL](https://google.com)
-
+- [NodeJS](https://javascript.org/)
+- [MYSQL](https://firebase.org)
 
 ---
 
